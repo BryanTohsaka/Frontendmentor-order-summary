@@ -135,7 +135,7 @@ body {
 
 @media (min-width: 768px) {
   .gb__background {
-    background: url(/images/pattern-background-desktop.svg) no-repeat center/cover;
+    background: url(pattern-background-desktop.svg) no-repeat center/cover;
     height: 50vh;
   }
   .container {
